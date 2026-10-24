@@ -2,3 +2,5 @@ stable.json -text
 stable.json.sig -text
 launcher.json -text
 launcher.json.sig -text
+stable-v2.json -text
+stable-v2.json.sig -text
