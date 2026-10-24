@@ -1,2 +1,4 @@
 stable.json -text
 stable.json.sig -text
+launcher.json -text
+launcher.json.sig -text

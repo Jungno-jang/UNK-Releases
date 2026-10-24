@@ -3,7 +3,7 @@
 UNK Launcher, UNK Excel, UNK Film, UNK PDF의 Windows 설치 파일과 서명된 업데이트 정보를 제공합니다.
 
 설치 파일은 [Releases](https://github.com/Jungno-jang/UNK-Releases/releases)에서 내려받으세요.
-[UNK Launcher 0.2.1 시험 배포](https://github.com/Jungno-jang/UNK-Releases/releases/tag/launcher-0.2.1)에서 런처 설치 파일을 받을 수 있습니다.
+[UNK Launcher 0.3.0](https://github.com/Jungno-jang/UNK-Releases/releases/tag/launcher-0.3.0)에서 런처 설치 파일을 받을 수 있습니다.
 GitHub 로그인 없이 다운로드할 수 있습니다. Windows 10/11 x64용입니다.
 
 런처는 설치된 프로그램의 새 배포본을 실행 시와 15분마다 확인합니다.
@@ -19,3 +19,6 @@ PDF 소스 공개는 사용자 개인 PDF 문서나 설정 공개를 뜻하지 �
 업데이트 정보의 Ed25519 서명은 Windows 코드 서명과 별개입니다.
 
 `stable.json`과 `stable.json.sig`는 런처용 배포 정보입니다. 직접 수정하면 서명 검증에 실패합니다.
+
+런처 0.2.x 사용자는 0.3.0 설치 파일을 한 번 실행해 주세요. 0.3.0부터 후속 런처 업데이트를 launcher.json 및 launcher.json.sig로 확인합니다. 세 앱 채널은 stable.json을 계속 사용합니다.
+
